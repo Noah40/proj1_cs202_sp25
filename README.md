@@ -214,7 +214,7 @@ You must:
 You must commit and push the following files to your GitHub Classroom repository:
 
 - `lab1.py` – your main implementation file  
-- `test_1.py` – your test suite with at least one test per function  
+- `test_student.py` – your test suite with at least one test per function  
 
 A file called `test_1.py` is included to check that:
 - Function names match
